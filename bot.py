@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "8835439811:AAGt1d2m5OYxIrQoJoSwto2KpDDlIP5gQ4s"
 PDF_FILE_ID = None
 
 QUESTIONS = [
